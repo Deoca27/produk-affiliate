@@ -1,34 +1,34 @@
 const products = [
   {
-    name: "Parfum mykonos all varian",
-    description: "[ BELI 2 GRATIS 1 ] Decant Mykonos Original | Free Tester | Parfum Mykonos | Parfum unisex | Parfum Fresh | Share in bottle | By Aflah",
-    price: "Rp18.230",
-    image: "https://down-tx-id.img.susercontent.com/id-11134207-8224o-ml2obyklwhzb81.webp",
-    link: "https://s.shopee.co.id/5VUePrrLk5"
+    name: "MYKONOS ALL VARIAN DECANT",
+    description: "MYKONOS ALL VARIAN DECANT | 3ml 5ml 10ml ORIGINAL SHARE IN JAR",
+    price: "Rp22.900",
+    image: "https://down-id.img.susercontent.com/file/id-11134207-822wn-mo1m39jm2eit87@resize_w900_nl.webp",
+    link: "https://s.shopee.co.id/6L3lm7mZx5"
   },
 
   {
-    name: "Charger IP",
-    description: "CHARGER IP 8 X XR XS XSMAX 11 12 13 14 15 16 17 20W 25W FAST CHARGING",
-    price: "Rp99.000",
-    image: "https://down-bs-id.img.susercontent.com/id-11134207-822wg-mp2mvkst9moecb.webp",
-    link: "https://s.shopee.co.id/2Vr2roou4z"
+    name: "Decant Velixir",
+    description: "[ BEST SELER ] Decant Velixir - 2ml / 3ml / 5ml / 10ml – Parfum Travel Size Original Wangi Tahan Lama",
+    price: "Rp28.680",
+    image: "https://down-id.img.susercontent.com/file/id-11134207-81zth-mq5c5jpwzr4080@resize_w900_nl.webp",
+    link: "https://s.shopee.co.id/AUtKkrn1xi"
   },
 
   {
-    name: "tumbler double wall",
-    description: "Javish tumbler double wall 40oz premium stainless steel / botol minum portable teh kopi fitness vacuum insulation thermos",
-    price: "Rp121.250",
-    image: "https://down-bs-id.img.susercontent.com/id-11134207-7rbk8-m7ga4vlk2x2kb4.webp",
-    link: "https://s.shopee.co.id/1gHvsRiOpg"
+    name: "Decant Mykonos",
+    description: "Decant Mykonos - 2ml / 3ml / 5ml / 10ml – Parfum Travel Size Original Wangi Tahan Lama",
+    price: "Rp120.650",
+    image: "https://down-id.img.susercontent.com/file/id-11134207-81zth-mq54dm2x3bwrbf@resize_w900_nl.webp",
+    link: "https://s.shopee.co.id/8V8GNFSYxB"
   },
 
   {
-    name: "Office Professional Plus",
-    description: "100% Ori | License Office 2021 | 2019 | 2016 | 2024 | 365 | Professional Plus Serial Key For Windows",
-    price: "Rp36.000",
-    image: "https://down-bs-id.img.susercontent.com/id-11134207-7rbk0-mau4ij3k882hc4.webp",
-    link: "https://s.shopee.co.id/3g30GJrapO"
+    name: "PARFUM WATCHOUT",
+    description: "PARFUM WATCHOUT EAU DE PARFUME JADE MARCELA",
+    price: "Rp70.000",
+    image: "https://down-id.img.susercontent.com/file/id-11134207-7rask-m4jqnl040lmy55@resize_w900_nl.webp",
+    link: "https://s.shopee.co.id/9zx49dcXGF"
   }
 
 ];
