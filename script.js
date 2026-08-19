@@ -61,7 +61,7 @@ function createProduct(product) {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Beli Sekarang
+          Lihat Produk
         </a>
 
       </div>
