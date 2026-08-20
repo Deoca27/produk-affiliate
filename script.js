@@ -20,7 +20,7 @@ const products = [
     description: "Mykonos 50ML All Variant - Parfum Edp / Extrait De Parfum",
     price: "Rp138.000",
     image: "https://down-id.img.susercontent.com/file/id-11134207-81zti-mekt8rkuylmucb@resize_w900_nl.webp",
-    link: "https://s.shopee.co.id/9KhNOyAjm4"
+    link: "https://s.shopee.co.id/1Lf7Ei6ZUo"
   },
 
   {
